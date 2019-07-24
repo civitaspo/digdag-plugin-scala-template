@@ -8,9 +8,9 @@ plugins {
 group = 'pro.civitaspo'
 version = '0.0.1'
 
-def digdagVersion = '0.9.31'
-def scalaSemanticVersion = "2.12.6"
-def depScalaVersion = "2.12"
+def digdagVersion = '0.9.39'
+def scalaSemanticVersion = "2.13.0"
+def depScalaVersion = "2.13"
 
 repositories {
     mavenCentral()

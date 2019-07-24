@@ -1,5 +1,5 @@
 # digdag-plugin-scala-template
-[![Jitpack](https://jitpack.io/v/pro.civitaspo/digdag-operator-plugin-scala-template.svg)](https://jitpack.io/#pro.civitaspo/digdag-operator-plugin-scala-template) [![CircleCI](https://circleci.com/gh/civitaspo/digdag-operator-plugin-scala-template.svg?style=shield)](https://circleci.com/gh/civitaspo/digdag-operator-plugin-scala-template) [![Digdag](https://img.shields.io/badge/digdag-v0.9.31-brightgreen.svg)](https://github.com/treasure-data/digdag/releases/tag/v0.9.31)
+[![Jitpack](https://jitpack.io/v/pro.civitaspo/digdag-operator-plugin-scala-template.svg)](https://jitpack.io/#pro.civitaspo/digdag-operator-plugin-scala-template) [![CircleCI](https://circleci.com/gh/civitaspo/digdag-operator-plugin-scala-template.svg?style=shield)](https://circleci.com/gh/civitaspo/digdag-operator-plugin-scala-template) [![Digdag](https://img.shields.io/badge/digdag-v0.9.39-brightgreen.svg)](https://github.com/treasure-data/digdag/releases/tag/v0.9.39)
 
 This is a digdag plugin template for scala implementations.
 
